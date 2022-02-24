@@ -38,4 +38,8 @@ It is possible to move in space, rotate the camera and change objects.
 
 ## Game
 
-  <img src="./screen/game.rf" width="500" alt="game">
+  <img src="./imgs/miniRT_video.gif" width="500" alt="game">
+  <img src="./imgs/spheres.png" width="500" alt="game">
+  <img src="./imgs/cylinders.png" width="500" alt="game">
+  <img src="./imgs/cylinders2.png" width="500" alt="game">
+  <img src="./imgs/some_map.png" width="500" alt="game">
